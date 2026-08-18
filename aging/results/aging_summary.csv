@@ -1,0 +1,5 @@
+scenario,model,C_max_per_hour,lifetime_years,cycles,ampere_hours_at_end
+low_c_rate,detailed,0.1665,5.598925038051751,4154,19131.716784803557
+low_c_rate,approximation,0.1665,5.694786910197869,4225,19459.191565915644
+high_c_rate,detailed,0.333,2.7523154490106543,4073,18809.578073546927
+high_c_rate,approximation,0.333,2.8474105783866057,4213,19459.31162966152
